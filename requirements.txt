@@ -1,4 +1,7 @@
-streamlit
+streamlit>=1.50
 pandas
 openpyxl
 holidays
+requests
+altair
+reportlab
